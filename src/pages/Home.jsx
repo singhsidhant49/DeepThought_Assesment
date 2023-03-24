@@ -6,16 +6,9 @@ import Cards from "../components/cards/Cards";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
  faQuestion,
-  faScrewdriverWrench,
-  faEllipsisVertical,
+
   faCalendarAlt,
-  faCalendarTimes,
-  faCalendarCheck,
-  faCalendarPlus,
-  faPersonCircleCheck,
-  faPersonCirclePlus,
-  faUserFriends,
-  faUserAlt,
+  
   faUsers,
 } from "@fortawesome/free-solid-svg-icons";
 
