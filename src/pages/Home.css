@@ -1,0 +1,144 @@
+.home-container{
+
+     display:flex;
+     justify-content: space-between;
+
+}
+
+
+.leftbar{ 
+
+}
+
+.rightbar{
+
+}
+
+.maiin {
+     
+     width: 75%;
+     
+
+
+ 
+}
+
+.maiin-con{
+     width: 100%;
+     
+ 
+}
+
+.mtop{
+   
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+    
+     
+}
+
+.maiin-heading{
+    
+
+font-family: 'Poppins';
+;
+
+font-size: 30px;
+line-height: 42px;
+margin-top: 20px;
+font-weight: 900;
+
+letter-spacing: 0.02em;
+
+color: #0029FF;
+}
+
+.btn{
+background: #0029FF;
+border-radius: 10px;
+color:white;
+height: 45px;
+width: 100px;
+border: none;
+margin-top: 10px;
+
+}
+
+.boxx{
+     font-family: 'Poppins';
+
+min-height: 100px;
+margin-top:30px;
+
+background: #E9ECEF;
+border-radius: 5px;
+padding: 25px 40px;
+
+}
+
+
+.boxx-item p{
+     font-size: 15px;
+     margin-top: 4px;
+
+}
+
+.boxx-card{
+     margin-top:50px;
+     display: flex;
+     width: 100%;
+     gap: 40px;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+     
+
+
+
+
+}
+.box-card-compo{
+     width: 475px;
+
+}
+
+
+
+.bottom-icons
+{
+ 
+ display: flex;
+ 
+
+align-items: flex-end;
+flex-direction: column;
+
+
+
+
+     
+}
+
+.bottom-icons-item{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 70px;
+     width: 70px;
+     padding: 0px;
+    
+     background-color: blue;
+     border-radius: 50%;
+     position: relative;
+     margin: 10px 0px;
+     
+     top:-200px;
+     left: 70px;
+   
+     
+} 
+
+ 
+
+
+

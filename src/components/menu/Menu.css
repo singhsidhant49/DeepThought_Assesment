@@ -1,0 +1,176 @@
+.colap-conn{
+
+     width: 100%;
+     background: rgba(254, 255, 192, 0.2);
+     border: 0.1px solid rgba(0, 0, 0, 0.4);
+     height: 40px;
+     font-weight: bold;
+     display: flex;
+     
+     transition:0.3 all ease-out;
+    
+     align-items: center;
+     /* position: relative; */
+    
+
+}
+
+.btn-cnt{
+     margin-left: 20px;
+    
+     
+}
+.ic{
+
+     margin: 0px 10px;
+}
+
+.colap-section{
+     position: absolute;
+ 
+max-width: 70%;
+min-height: 300px;
+height: auto;
+ 
+
+background: #FDFDFD;
+
+
+border-radius: 0px 0px 15px;
+
+
+}
+
+.colop-sec-top{
+     display: flex;
+     justify-content: space-around;
+     margin-top:20px;
+     flex-wrap: wrap;
+   
+}
+
+.sec-top-item{
+     flex:1;
+     background: rgba(0, 0, 0, 0.05);
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+height:110px;
+width: 190px;
+padding: 0px;
+margin:15px;
+
+
+}
+.sec-top-item span {
+     margin:10px;
+   
+     font-size: 13px;
+}
+.sec-top-item textarea{
+
+          outline: none;
+            margin-top: 5px;
+border: none;
+    width: 100%;
+  height: 80px;
+  padding: 8px 10px;
+  box-sizing: border-box;
+  border-radius:15px 15px 10px 10px ;
+
+  resize: none;
+
+ 
+}
+
+.colopsec-mid{
+   
+    width: 100%;
+     display:flex;
+     
+     height:50px;
+     justify-content:center;
+     align-items: center;
+     position: relatve;
+}
+
+.mt{
+  
+  
+     flex:1;
+     display: flex;
+     justify-content: flex-end;
+     height:40px;
+     align-items: center;
+     flex-wrap: wrap;
+     
+     
+  
+     gap:10px;
+     
+     
+}
+
+.mid-icon {
+     
+  
+     width: 25px;
+     height: 25px;
+    
+     
+}
+.mid-icon2 select {
+
+width: 100px;
+height: 35px;
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+border: none;
+outline: none;
+}
+
+.colopsec-bottom{
+     /* background-color: red; */
+     height: 180px;
+}
+.sec-bottom-item{
+     
+     background: rgba(0, 0, 0, 0.05);
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+height:110px;
+/* width: 95%; */
+
+margin:15px;
+
+}
+
+.sec-bottom-item span {
+     margin:10px;
+   
+     font-size: 13px;
+}
+.sec-bottom-item textarea{
+
+outline: none;
+margin-top: 5px;
+border: none;
+    width: 100%;
+  height: 80px;
+  padding: 8px 10px;
+  box-sizing: border-box;
+  border-radius:15px 15px 10px 10px ;
+
+  resize: none;
+
+}
+.colopsec-bottom button{
+     width:110px;
+     height: 40px;
+     margin: 10px 20px;
+border: none;
+border-radius: 10px;
+color:white;
+background-color: blue;
+
+}
